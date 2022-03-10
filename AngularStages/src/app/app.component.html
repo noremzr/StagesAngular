@@ -1,0 +1,13 @@
+<p>
+  <mat-toolbar color="primary">
+    <span>Nome Aplicativo</span>
+    &nbsp;
+    <button mat-icon-button (click)="goToHome()" title="Home" >
+      <mat-icon>home</mat-icon>
+    </button>
+    <button mat-icon-button (click)="goToUsers()" title="Usuários" >
+      <mat-icon>people</mat-icon>
+    </button>
+  </mat-toolbar>
+</p>
+<router-outlet></router-outlet>

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e26154e7-6fcb-4b26-acf6-27e08d719233": {
+      "ProjectGuid": "e26154e7-6fcb-4b26-acf6-27e08d719233",
+      "DisplayName": "AngularStagesApi",
+      "ColorIndex": 0
+    },
+    "be576f01-21d1-4f5f-a424-53b9f9413ab4": {
+      "ProjectGuid": "be576f01-21d1-4f5f-a424-53b9f9413ab4",
+      "DisplayName": "AngularStagesDLL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,12 @@
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\bin\Debug\net6.0\AngularStagesDLL.deps.json
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\bin\Debug\net6.0\AngularStagesDLL.dll
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\bin\Debug\net6.0\ref\AngularStagesDLL.dll
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\bin\Debug\net6.0\AngularStagesDLL.pdb
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.csproj.AssemblyReference.cache
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.AssemblyInfoInputs.cache
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.AssemblyInfo.cs
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.csproj.CoreCompileInputs.cache
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.dll
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\ref\AngularStagesDLL.dll
+E:\Angular\angular-stages\AngularStagesApi\AngularStagesApi\AngularStagesDLL\obj\Debug\net6.0\AngularStagesDLL.pdb
